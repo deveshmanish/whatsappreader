@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Whatsapp Chat Simulator</string>
+    <string name="hint_text">Enter Whatsapp Chat Text</string>
+</resources>
